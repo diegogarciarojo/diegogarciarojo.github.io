@@ -1,0 +1,155 @@
+body{
+    background-color: #1a1a1a;
+    color: white;
+}
+
+.home{
+    padding: 50px;
+    font-size: 30px;
+    margin-left: 7%;
+}
+
+.bar{
+    border-radius: 5px;
+    background-color: #444;
+}
+
+.button button{
+    height: 100px;
+    width: 100px;
+    margin: 70px;
+    margin-top: 20px;
+}
+
+.container{
+    width: 90%;
+    height: 10px;
+    padding: 5%;
+}
+.tmn_title{
+    background-color: #222;
+    border-radius: 5px;
+}
+.title{
+    background-color: #222;
+    color: white;
+    padding: 10px;
+}
+
+.row{
+    display: flex;
+    padding: 10px;
+    background-color: #333;
+    text-align: center;
+}
+
+.row div{
+    width: 25%;
+}
+
+.header_row{
+    display: flex;
+    padding: 10px;
+    background-color: #222;
+}
+
+.header_row div{
+    width: 25%;
+    text-align: center;
+}
+
+.footer{
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.logo{
+    display: flex;
+    margin-left: 55%;
+    margin-top: -25%;
+}
+.subtitle{
+    margin-left: 95px;
+}
+
+.home_button{
+    margin-left: 150px;
+}
+
+.header{
+margin-left: 35%;
+}
+
+.films_box{
+    display: flex;
+    margin: 20px;
+}
+
+.sidebar{
+    width: 20%;
+    background-color: #222;
+    padding: 10px;
+    display: flex;
+    margin: 10px;
+    border-radius: 5px;
+    flex-direction: column;
+}
+
+.content{
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    background-color: #333;
+    border-radius: 5px;
+}
+
+.box_text{
+    background-color: #444;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.profile_page{
+    display: flex;
+    margin: 20px;
+}
+
+.sidebar button{
+    padding: 10px;
+}
+
+.sign_out{
+    background-color: red;
+    color: white;
+}
+
+.profile{
+    width: 50%;
+    padding: 20px;
+    text-align: left;
+}
+
+.delete{
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+.image{
+    width: 15%;
+    text-align: center;
+}
+
+.ads{
+    width: 20%;
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+img{
+    border-radius: 5px;
+}
