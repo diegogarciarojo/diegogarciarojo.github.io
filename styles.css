@@ -79,7 +79,8 @@ body{
 }
 
 .header{
-margin-left: 35%;
+display: block;
+text-align: center;
 }
 
 .films_box{
